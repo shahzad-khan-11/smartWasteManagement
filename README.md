@@ -1,1 +1,1 @@
-# smartWasteManagement
+# SmartWasteManagement
